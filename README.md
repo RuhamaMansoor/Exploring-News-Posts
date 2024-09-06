@@ -1,4 +1,4 @@
-# Hacker News Post Analysis
+# Exploring News Posts
 
 ## Overview
 
